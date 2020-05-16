@@ -1,1 +1,7 @@
-dash == 5.3
+python = 3.8.0
+pandas == 1.0.3
+
+dash == 
+dash-renderer == 
+dash-html-components == 
+dash-core-components == 
